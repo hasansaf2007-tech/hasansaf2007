@@ -1,22 +1,35 @@
-<!--- Footer Stats - Adding the Social Media Status count-->
- <p align="left">  
-<img src="https://enct8yvqkgdbon1.m.pipedream.net" alt="Total Github views" />&nbsp;&nbsp;</a>
-<a href="https://twitter.com/sanjay_kv_"><img src="https://img.shields.io/twitter/follow/sanjay_k_v?label=Follow%20Me&style=social"></a>
-<a href=""><img src="https://img.shields.io/twitch/status/sanjay_kv?style=social"></a>
-<a href=""><img src="https://img.shields.io/github/stars/sanjay-kv?label=Star%20Gazers&style=social"></a>
-<a href="https://discord.gg/cFvgmmrs">
-  <img src="https://discord.com/api/guilds/1231112132595028008/widget.png?style=shield">
+<!-- 🔥 Footer Stats - Hasan Safatly -->
+<p align="left">  
+
+<img src="https://komarev.com/ghpvc/?username=HasanSafatly&label=Profile%20Views&color=0e75b6&style=flat" alt="views" />&nbsp;&nbsp;
+
+<a href="https://github.com/HasanSafatly">
+  <img src="https://img.shields.io/github/followers/HasanSafatly?label=Follow&style=social">
 </a>
-<a href=""><img src="https://img.shields.io/github/followers/sanjay-kv?style=social"></a>
-<a href="https://www.youtube.com/channel/UCzyGIdENFVT36Yx4zTws4kw/?sub_confirmation=1"><img src="https://img.shields.io/youtube/channel/views/UCzyGIdENFVT36Yx4zTws4kw?style=social"></a>
+
+<a href="https://www.youtube.com/CHANNEL_ID?sub_confirmation=1">
+  <img src="https://img.shields.io/youtube/channel/subscribers/CHANNEL_ID?style=social" />
+</a>
+
+<a href="https://www.youtube.com/CHANNEL_ID">
+  <img src="https://img.shields.io/youtube/channel/views/CHANNEL_ID?style=social" />
+</a>
+
+<a href="#">
+  <img src="https://img.shields.io/badge/Flutter%20Developer-🔥-blue?style=social" />
+</a>
+
+<a href="#">
+  <img src="https://img.shields.io/badge/Content%20Creator-🎥-red?style=social" />
+</a>
+
 </p>
 
-
-<!--
-<a href=""><img src="https://img.shields.io/github/followers/sanjay-kv?style=social"></a>
--->
 <p align="center">
-Do you want to contact me for collaboration opportunities? ⟶ <a href="https://event.recodehive.com/git">Contact Details</a><br>
-<b> Show some ❤️ by starring some of the repositories!.</p> </div>
-<!--- Footer End -->
-<!--- Body End -->
+🚀 Want to collaborate or build something amazing together? <br>
+👉 <b>Reach out via YouTube or GitHub</b>  
+
+<br><br>
+
+💙 Don’t forget to support by starring repositories & subscribing on YouTube!
+</p>
